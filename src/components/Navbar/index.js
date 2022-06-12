@@ -11,13 +11,13 @@ import {
     NavBtnLink
 } from './NavbarElements';
 
-const Navbar = () => {
+const Navbar = ({toggle}) => {
     return (
         <div>
             <Nav>
                 <NavbarContainer>
                     <NavLogo to="/">dolla</NavLogo>
-                    <MobileIcon>
+                    <MobileIcon onClick={toggle}>
                         <FaBars/>
                     </MobileIcon>
                     <NavMenu>
