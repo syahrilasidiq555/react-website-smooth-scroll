@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-website-smooth-scroll/static/css/main.d7da34c1.css",
+    "main.js": "/react-website-smooth-scroll/static/js/main.35468a40.js",
+    "index.html": "/react-website-smooth-scroll/index.html",
+    "main.d7da34c1.css.map": "/react-website-smooth-scroll/static/css/main.d7da34c1.css.map",
+    "main.35468a40.js.map": "/react-website-smooth-scroll/static/js/main.35468a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.35468a40.js"
+  ]
+}
