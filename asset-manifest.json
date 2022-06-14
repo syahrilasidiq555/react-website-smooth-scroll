@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-website-smooth-scroll/static/css/main.d7da34c1.css",
-    "main.js": "/react-website-smooth-scroll/static/js/main.7fed14ce.js",
+    "main.js": "/react-website-smooth-scroll/static/js/main.28476da5.js",
     "static/media/video.mp4": "/react-website-smooth-scroll/static/media/video.9d0897d53c757ada39c6.mp4",
     "static/media/svg-5.svg": "/react-website-smooth-scroll/static/media/svg-5.ab1a0610b5078b09fa3dcc0ae05db3cd.svg",
     "static/media/svg-6.svg": "/react-website-smooth-scroll/static/media/svg-6.d06c2f2d3531af60acd98c57554ef47a.svg",
@@ -11,10 +11,10 @@
     "static/media/svg-4.svg": "/react-website-smooth-scroll/static/media/svg-4.7e642601c8ec7968164adf3adb6527a1.svg",
     "index.html": "/react-website-smooth-scroll/index.html",
     "main.d7da34c1.css.map": "/react-website-smooth-scroll/static/css/main.d7da34c1.css.map",
-    "main.7fed14ce.js.map": "/react-website-smooth-scroll/static/js/main.7fed14ce.js.map"
+    "main.28476da5.js.map": "/react-website-smooth-scroll/static/js/main.28476da5.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.7fed14ce.js"
+    "static/js/main.28476da5.js"
   ]
 }
