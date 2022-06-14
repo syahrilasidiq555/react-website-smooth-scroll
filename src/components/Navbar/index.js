@@ -91,7 +91,7 @@ const Navbar = ({toggle}) => {
                         </NavMenu>
                         <NavBtn>
                             <NavBtnLink 
-                                to="/signin"
+                                to="/react-website-smooth-scroll/signin"
                                 smooth={true}
                                 duration={500}
                                 spy={true}

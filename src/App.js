@@ -9,7 +9,8 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home/>} />
-        <Route path="/signin" element={<SigninPage/>} exact />
+        <Route path="/react-website-smooth-scroll/signin" element={<SigninPage/>} exact />
+        <Route path="*" element={<Home/>}/>
       </Routes>      
     </Router>
   );
