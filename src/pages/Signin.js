@@ -1,7 +1,11 @@
+import Signin from "../components/Siginin";
+import {ScrollToTop} from "../components/ScrollToTop";
+
 const SigninPage = () => {
     return (
         <div>
-            <h1>Sign in page</h1>
+            <ScrollToTop/>
+            <Signin/>
         </div>
     );
 }

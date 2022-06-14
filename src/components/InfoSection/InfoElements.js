@@ -59,7 +59,7 @@ export const TopLine = styled.p`
     font-size: 16px;
     line-height: 16px;
     font-weight: 700;
-    letter-spacing: 1.4rem;
+    letter-spacing: 0.4rem;
     text-transform: uppercase;
     margin-bottom: 16px;
 `
